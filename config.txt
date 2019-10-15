@@ -1,0 +1,12 @@
+# 源APK
+apk.src=src.apk
+
+# 写出的APK名
+apk.out=out.apk
+
+# 签名配置
+sign.enable=true
+sign.file=./demo.keystore  # 签名文件路径
+sign.password=123456 #签名文件密码
+sign.alias=user
+sign.aliasPassword=123456

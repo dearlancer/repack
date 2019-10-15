@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e06fb0e6-b986-4b39-b1b1-402522cc6443" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/repack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/AnalysisApk.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/ApkSign.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Constant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/FileUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/HookUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/RePack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/bean/Property.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/io/ZInput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/io/ZOutput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/utils/StreamUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/utils/StringDecoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/xmlparse/AXmlDecoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/xmlparse/AXmlResourceParser$NamespaceStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/xmlparse/AXmlResourceParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/xmlparse/AttributeSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/xmlparse/ChunkUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/xmlparse/IntReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/xmlparse/StringBlock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/xmlparse/TypedValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/xmlparse/XmlResourceParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo.keystore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keystore/demo.keystore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smali/PmsHookBinderInvocationHandler.smali" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smali/ServiceManagerWrapper.smali" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AnalysisApk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ApkSign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FileUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HookUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RePack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bean/Property.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/ZInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/ZOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/StreamUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/StringDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/xmlparse/AXmlDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/xmlparse/AXmlResourceParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/xmlparse/AttributeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/xmlparse/ChunkUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/xmlparse/IntReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/xmlparse/StringBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/xmlparse/TypedValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/xmlparse/XmlResourceParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsigned.apk" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1OabX16wdz3tWlgam0Q0fOc9kvi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/smali" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/smali" />
+      <recent name="$PROJECT_DIR$/keystore" />
+      <recent name="$PROJECT_DIR$/src/main/java/smali" />
+      <recent name="$PROJECT_DIR$/src/main/java/xmlparse" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/libs" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.RePack">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnalysisApk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnalysisApk" />
+      <module name="repack.main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KillSignatureTool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KillSignatureTool" />
+      <module name="repack.main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RePack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RePack" />
+      <module name="repack.main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KillSignatureTool" />
+        <item itemvalue="Application.RePack" />
+        <item itemvalue="Application.AnalysisApk" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e06fb0e6-b986-4b39-b1b1-402522cc6443" name="Default Changelist" comment="" />
+      <created>1563950056838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563950056838</updated>
+      <workItem from="1563950060998" duration="812000" />
+      <workItem from="1563953461435" duration="10035000" />
+      <workItem from="1563967892394" duration="775000" />
+      <workItem from="1563973187177" duration="6630000" />
+      <workItem from="1564020762684" duration="8558000" />
+      <workItem from="1564037405136" duration="15382000" />
+      <workItem from="1564218464574" duration="166000" />
+      <workItem from="1564218697546" duration="14000" />
+      <workItem from="1564301694946" duration="1823000" />
+      <workItem from="1564364004682" duration="1175000" />
+      <workItem from="1564372881609" duration="326000" />
+      <workItem from="1565346645426" duration="2953000" />
+      <workItem from="1565370888248" duration="98000" />
+      <workItem from="1565402920758" duration="14000" />
+      <workItem from="1565538027348" duration="422000" />
+      <workItem from="1565573413581" duration="6482000" />
+      <workItem from="1565580531747" duration="2232000" />
+      <workItem from="1565584317041" duration="918000" />
+      <workItem from="1571053745197" duration="5301000" />
+      <workItem from="1571106579458" duration="687000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>main|repack</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
