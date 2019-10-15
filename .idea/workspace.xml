@@ -2,81 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e06fb0e6-b986-4b39-b1b1-402522cc6443" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileContent/fileContent.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/repack.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/AnalysisApk.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/ApkSign.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Constant.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/FileUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/HookUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/RePack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/bean/Property.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/io/ZInput.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/io/ZOutput.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/utils/StreamUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/utils/StringDecoder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/xmlparse/AXmlDecoder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/xmlparse/AXmlResourceParser$NamespaceStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/xmlparse/AXmlResourceParser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/xmlparse/AttributeSet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/xmlparse/ChunkUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/xmlparse/IntReader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/xmlparse/StringBlock.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/xmlparse/TypedValue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/xmlparse/XmlResourceParser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo.keystore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystore/demo.keystore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smali/PmsHookBinderInvocationHandler.smali" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smali/ServiceManagerWrapper.smali" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AnalysisApk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ApkSign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Constant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FileUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HookUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RePack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bean/Property.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/ZInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/ZOutput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/StreamUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/StringDecoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/xmlparse/AXmlDecoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/xmlparse/AXmlResourceParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/xmlparse/AttributeSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/xmlparse/ChunkUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/xmlparse/IntReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/xmlparse/StringBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/xmlparse/TypedValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/xmlparse/XmlResourceParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsigned.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -256,7 +182,7 @@
       <workItem from="1565580531747" duration="2232000" />
       <workItem from="1565584317041" duration="918000" />
       <workItem from="1571053745197" duration="5301000" />
-      <workItem from="1571106579458" duration="687000" />
+      <workItem from="1571106579458" duration="913000" />
     </task>
     <servers />
   </component>

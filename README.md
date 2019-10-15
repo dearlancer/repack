@@ -1,4 +1,6 @@
 # Apk签名hook服务
+通过插入代码到 Application 入口，hook 了程序中 PackageManager 的 getPackageInfo 方法，改变签名信息达到绕过签名校验的方式。
+对其他校验方式无效。
 
 ### 使用
 1. 安装java,配置安卓环境变量和aapt工具
